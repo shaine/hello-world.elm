@@ -1,4 +1,4 @@
-module Main exposing (..)
+module Toggler exposing (..)
 
 import Html exposing (Html, button, div, text, program)
 import Html.Events exposing (onClick)
